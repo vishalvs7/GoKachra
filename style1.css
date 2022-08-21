@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+h1{
+text-align: center;
+text-decoration: underline;
+}
+
+ul{
+    list-style-type: none;
+    overflow: auto;
+}
+li{
+    width: 20%;
+    float: left;
+}
+.a1
+{
+    color: azure;
+    text-decoration: none;
+}
+
+div{
+    word-spacing: 20%;
+    color: white;
+    background-color: #333;
+    padding: .3%;
+    margin-top: 0%;
+    margin-bottom: 0%;  
+}
+.content_box {
+    background-color:#85BB1D;
+    position: absolute;
+    height: 25em;
+    width: 20em;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    box-shadow: 0 0 50px black;
+    border-radius: 5%;
+  }
+ table{
+     margin: 10%;
+ }
